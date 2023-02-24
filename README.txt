@@ -6,3 +6,5 @@ Your .env file should look something like this...
 # .env
 DISCORD_TOKEN=*insert bot token*
 DISCORD_GUILD=*insert server name*
+
+Developed independently by me, educational use only please!
