@@ -7,4 +7,6 @@ Your .env file should look something like this...
 DISCORD_TOKEN=*insert bot token*
 DISCORD_GUILD=*insert server name*
 
-Developed independently by me, educational use only please!
+Developed independently by me, educational use only.
+
+(Abandoned Project, created to learn the basics of the Discord API and get used to learning external APIs.)
